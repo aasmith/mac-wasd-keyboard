@@ -3,6 +3,8 @@ Apple Keyboard Layout for WASD V2 Keyboards
 
 A custom Mac keyboard layout that aims to reproduce the modern Apple Keyboard layout suitable for use with a WASD V2 keyboard or similar.
 
+![Preview](https://raw.github.com/aasmith/mac-wasd-keyboard/master/custom-mac-layout.png)
+
 Features
 ========
 
