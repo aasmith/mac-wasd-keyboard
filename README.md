@@ -24,6 +24,7 @@ Details
   the more accurate emanating lines from the originals in the WASD V2 template.
 * The option and control icons are customized to match the rest of the font
   aesthetic.
+* Pg Up/Pg Down have been expanded to Page Up/Page Down.
 
 Font on most keys is VAG Rounded Light 11. Functions keys are size 10.
 Multi-line keys (page up/down) are centered with line spacing 0.97.
