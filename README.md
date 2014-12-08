@@ -34,10 +34,10 @@ Multi-line keys (page up/down) are centered with line spacing 0.97.
 Outstanding Issues
 ==================
 
-* The key next to control doesn't exist on Apple keyboards. This is currently
-  a second fn; maybe it should be something else? If used as fn, it can be
-  physically swapped with the control key, as they are the same size on the
-  WASD 104. (dimensions R1 1x1.25)
+* The key between right command and control doesn't exist on Apple keyboards.
+  This is currently a second fn; maybe it should be something else? If used as fn,
+  it can be physically swapped with the control key, as they are the same size on
+  the WASD keyboard. (both dimension R1 1x1.25)
 * The eject key shares F13. Should this become its own key, reducing the number
   of F-keys by one to F14?
 
